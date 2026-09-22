@@ -1,0 +1,10 @@
+body {
+	font-family: system-ui, sans-serif;
+	display: grid;
+	place-content: center;
+	min-height: 100vh;
+	margin: 0;
+	text-align: center;
+background-color: lightblue;
+color: violet;
+}
